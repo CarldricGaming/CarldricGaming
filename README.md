@@ -9,5 +9,5 @@ CarldricGaming/CarldricGaming is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=carldricgaming&theme=light_github)](https://github.com/stats-organization/github-stats-extended)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=carldricgaming&theme=dark_github)](https://github.com/stats-organization/github-stats-extended)
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api/top-langs/?username=carldricgaming&langs_count=4&theme=dark_github)](https://github.com/stats-organization/github-stats-extended)
